@@ -11,8 +11,12 @@
             "id": "8e2662bcf393f2d7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Web/Frontend.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Web/Frontend.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Web/Frontend.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Web/Frontend.md"
+              }
             }
           }
         ]
@@ -140,14 +148,14 @@
   },
   "active": "8e2662bcf393f2d7",
   "lastOpenFiles": [
-    "Web/Backend.md",
     "Design/UI.md",
-    "Overview.canvas",
     "Web/Frontend.md",
+    "DevOps/Deployment.md",
+    "Web/Backend.md",
+    "Overview.canvas",
     "Git/General.md",
     "Git",
     "README.md",
-    "DevOps/Deployment.md",
     "Game/Engines.md",
     "Game/Game Design.md",
     "Payment/Gateways.md",
