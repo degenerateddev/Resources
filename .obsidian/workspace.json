@@ -4,22 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "820001c855b9188f",
+        "id": "a0ce66a77fe06a15",
         "type": "tabs",
         "children": [
           {
-            "id": "5da1c55d446291aa",
+            "id": "ea0f32f21c8b721f",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Overview.canvas",
-                "viewState": {
-                  "x": 217.4623000761612,
-                  "y": 388.145954167205,
-                  "zoom": -0.5765138487108082
-                }
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -88,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Overview.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Overview.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Overview.canvas"
-              }
+              "state": {}
             }
           }
         ]
@@ -149,8 +138,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5da1c55d446291aa",
+  "active": "ea0f32f21c8b721f",
   "lastOpenFiles": [
+    "Git/General.md",
+    "Overview.canvas",
+    "Git",
     "README.md",
     "Design/UI.md",
     "DevOps/Deployment.md",
@@ -159,7 +151,6 @@
     "Game/Engines.md",
     "Game/Game Design.md",
     "Payment/Gateways.md",
-    "Overview.canvas",
     "Payment",
     "Design/Fonts.md",
     "DevOps",
