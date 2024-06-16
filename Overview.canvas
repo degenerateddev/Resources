@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"5a7fb92402486b14","type":"file","file":"Design/Fonts.md","x":-160,"y":120,"width":400,"height":400,"color":"4"},
+		{"id":"7669d5edb375fe3d","type":"file","file":"Game/Engines.md","x":80,"y":820,"width":400,"height":400},
+		{"id":"e640ce984d3d4a85","type":"file","file":"Game/Game Design.md","x":-400,"y":820,"width":400,"height":400},
+		{"id":"7444e50082663d15","type":"file","file":"Web/Frontend.md","x":80,"y":-560,"width":400,"height":400},
+		{"id":"8bd305f27c709f45","type":"file","file":"Web/Backend.md","x":-360,"y":-560,"width":400,"height":400},
+		{"id":"40bf7477398f0e14","type":"file","file":"DevOps/Deployment.md","x":-800,"y":-560,"width":400,"height":400},
+		{"id":"2ce57306e7c15f85","type":"file","file":"README.md","x":-1420,"y":0,"width":400,"height":400,"color":"3"},
+		{"id":"c6f486f147b38482","type":"file","file":"Payment/Gateways.md","x":-600,"y":120,"width":400,"height":400,"color":"6"},
+		{"id":"fe23fe1ed3355375","x":280,"y":120,"width":400,"height":400,"color":"4","type":"file","file":"Design/UI.md"}
+	],
+	"edges":[
+		{"id":"683d3a817233e622","fromNode":"5a7fb92402486b14","fromSide":"bottom","toNode":"e640ce984d3d4a85","toSide":"top"},
+		{"id":"e7905dfed91d4fc7","fromNode":"5a7fb92402486b14","fromSide":"top","toNode":"7444e50082663d15","toSide":"bottom"},
+		{"id":"7513dfe0a62f3700","fromNode":"7669d5edb375fe3d","fromSide":"left","toNode":"e640ce984d3d4a85","toSide":"right"},
+		{"id":"0557230d68308003","fromNode":"c6f486f147b38482","fromSide":"top","toNode":"8bd305f27c709f45","toSide":"bottom"},
+		{"id":"bd89590b806a1c7a","fromNode":"40bf7477398f0e14","fromSide":"right","toNode":"8bd305f27c709f45","toSide":"left"},
+		{"id":"f973ddefbde106a7","fromNode":"8bd305f27c709f45","fromSide":"right","toNode":"7444e50082663d15","toSide":"left"}
+	]
+}
