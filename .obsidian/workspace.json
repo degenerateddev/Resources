@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a0ce66a77fe06a15",
+        "id": "23b04757154e0d19",
         "type": "tabs",
         "children": [
           {
-            "id": "ea0f32f21c8b721f",
+            "id": "8e2662bcf393f2d7",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,16 +138,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ea0f32f21c8b721f",
+  "active": "8e2662bcf393f2d7",
   "lastOpenFiles": [
-    "Git/General.md",
+    "Web/Backend.md",
+    "Design/UI.md",
     "Overview.canvas",
+    "Web/Frontend.md",
+    "Git/General.md",
     "Git",
     "README.md",
-    "Design/UI.md",
     "DevOps/Deployment.md",
-    "Web/Backend.md",
-    "Web/Frontend.md",
     "Game/Engines.md",
     "Game/Game Design.md",
     "Payment/Gateways.md",

@@ -6,9 +6,9 @@
 		{"id":"7444e50082663d15","type":"file","file":"Web/Frontend.md","x":80,"y":-560,"width":400,"height":400},
 		{"id":"8bd305f27c709f45","type":"file","file":"Web/Backend.md","x":-360,"y":-560,"width":400,"height":400},
 		{"id":"40bf7477398f0e14","type":"file","file":"DevOps/Deployment.md","x":-800,"y":-560,"width":400,"height":400},
-		{"id":"2ce57306e7c15f85","type":"file","file":"README.md","x":-1420,"y":0,"width":400,"height":400,"color":"3"},
 		{"id":"c6f486f147b38482","type":"file","file":"Payment/Gateways.md","x":-600,"y":120,"width":400,"height":400,"color":"6"},
-		{"id":"fe23fe1ed3355375","x":280,"y":120,"width":400,"height":400,"color":"4","type":"file","file":"Design/UI.md"}
+		{"id":"fe23fe1ed3355375","type":"file","file":"Design/UI.md","x":280,"y":120,"width":400,"height":400,"color":"4"},
+		{"id":"2ce57306e7c15f85","type":"file","file":"README.md","x":-1460,"y":120,"width":400,"height":400,"color":"3"}
 	],
 	"edges":[
 		{"id":"683d3a817233e622","fromNode":"5a7fb92402486b14","fromSide":"bottom","toNode":"e640ce984d3d4a85","toSide":"top"},

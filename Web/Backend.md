@@ -24,5 +24,8 @@
 	- Stateful Tokens
 - Session based authentication
 - JWT Token authentication
+
+# API
+- Fail fast for non-HTTP API connections
 # Payment
 - [[Gateways]]
