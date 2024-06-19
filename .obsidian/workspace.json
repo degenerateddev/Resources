@@ -4,18 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "23b04757154e0d19",
+        "id": "6334013e3d1b1fd9",
         "type": "tabs",
         "children": [
           {
-            "id": "8e2662bcf393f2d7",
+            "id": "af6154fdb59ad32d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Web/Frontend.md",
-                "mode": "source",
-                "source": false
+                "file": "Overview.canvas",
+                "viewState": {
+                  "x": -266.3543873756189,
+                  "y": 338.8034811586427,
+                  "zoom": -1.1665227119877972
+                }
               }
             }
           }
@@ -85,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/Frontend.md",
+                "file": "Overview.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web/Frontend.md",
+                "file": "Overview.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web/Frontend.md"
+                "file": "Overview.canvas"
               }
             }
           }
@@ -146,13 +149,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8e2662bcf393f2d7",
+  "active": "af6154fdb59ad32d",
   "lastOpenFiles": [
+    "DevOps/Deployment.md",
     "Design/UI.md",
     "Web/Frontend.md",
-    "DevOps/Deployment.md",
     "Web/Backend.md",
     "Overview.canvas",
+    "Untitled.canvas",
     "Git/General.md",
     "Git",
     "README.md",
