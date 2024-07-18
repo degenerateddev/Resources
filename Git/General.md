@@ -9,4 +9,3 @@
 - `git config (--global) user.name "John Doe"`
 - `git config (--global) user.email "Email"`
 - `git commit --amend --author="John Doe <john@doe.org>"`
-- 

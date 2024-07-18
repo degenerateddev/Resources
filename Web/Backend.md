@@ -28,4 +28,4 @@
 # API
 - Fail fast for non-HTTP API connections
 # Payment
-- [[Gateways]]
+- [[Solutions]]

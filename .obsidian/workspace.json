@@ -4,21 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "6334013e3d1b1fd9",
+        "id": "11fb474c3851482a",
         "type": "tabs",
         "children": [
           {
-            "id": "af6154fdb59ad32d",
+            "id": "e0704c2b52f67c17",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Overview.canvas",
-                "viewState": {
-                  "x": -266.3543873756189,
-                  "y": 338.8034811586427,
-                  "zoom": -1.1665227119877972
-                }
+                "file": "Web/Frontend.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Overview.canvas",
+                "file": "Web/Frontend.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Overview.canvas",
+                "file": "Web/Frontend.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Overview.canvas"
+                "file": "Web/Frontend.md"
               }
             }
           }
@@ -149,20 +146,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "af6154fdb59ad32d",
+  "active": "e0704c2b52f67c17",
   "lastOpenFiles": [
-    "DevOps/Deployment.md",
-    "Design/UI.md",
-    "Web/Frontend.md",
     "Web/Backend.md",
-    "Overview.canvas",
-    "Untitled.canvas",
-    "Git/General.md",
-    "Git",
-    "README.md",
+    "Learning/General.md",
+    "app.daily.dev.md",
+    "().md",
     "Game/Engines.md",
     "Game/Game Design.md",
-    "Payment/Gateways.md",
+    "Git/General.md",
+    "Security/Cyber Security.md",
+    "Payment/Solutions.md",
+    "Design/UI.md",
+    "Learning",
+    "Web/Frontend.md",
+    "README.md",
+    "Overview.canvas",
+    "DevOps/Deployment.md",
+    "Untitled.canvas",
+    "Git",
     "Payment",
     "Design/Fonts.md",
     "DevOps",

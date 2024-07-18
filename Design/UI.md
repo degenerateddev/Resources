@@ -26,3 +26,7 @@
 [MagicPattern](https://www.magicpattern.design/tools/mesh-gradients)
 [BGJar](https://bgjar.com/https://products.ls.graphics/mesh-gradients/)
 [Icons8](https://icons8.com/)
+
+### Themes & Templates
+https://www.builtatlightspeed.com/category/astro
+https://astro.build/themes/
